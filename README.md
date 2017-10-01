@@ -1,6 +1,8 @@
 # Antigate
 Class for anti-captcha.com
 
+Требуется вписать ключ в $secret_key = '';
+
 Использование
 
 ```php
